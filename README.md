@@ -1,3 +1,3 @@
 # ZSH
 
-Append .zshrc with ```alias totp="node /Users/kai/Workspaces/totp-on-demand/index.mjs"```
+Append .zshrc with ```alias totp="node /PATH/TO/totp-on-demand/index.mjs"```
